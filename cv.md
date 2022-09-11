@@ -108,37 +108,33 @@ function filterRangeInPlace(arr, a, b) {
 
 ====
 
-
 ### Work experience
 
 ====
 
-  *  I have worked since April 2021 to December 2021 as HTML layout designer in ООО "Service Market".
-     A small E-commerce company:
+*  I have worked since April 2021 to December 2021 as HTML layout designer in ООО "Service Market".   A small E-commerce company:
 
-     + Developed an e-commerce web site waterdel.ru from scratch
+  + Developed an e-commerce web site waterdel.ru from scratch
 
-     + Marked up a bunch of pages on HTML, styling on preprossesors Sass , with Flexbox layout, and Grid layout.
+  + Marked up a bunch of pages on HTML, styling on preprossesors Sass , with Flexbox layout, and Grid layout.
 
-     + Adaptive and Cross-platform mark up with using BEM methodology
+  + Adaptive and Cross-platform mark up with using BEM methodology
 
-     + Worked with two members of a team (a backend developer, and designer)
+  + Worked with two members of a team (a backend developer, and designer)
 
-     + Worked with a Figma , Photoshop и Zeplin
+  + Worked with a Figma , Photoshop и Zeplin
 
-     + Worked with Automation Gulp
+  + Worked with Automation Gulp
 
-  * I gained invaluable experience whilst operated with the company of ООО "Service Market" and developed a real-production web site: [http://waterdel.ru/].
+* I gained invaluable experience whilst operated with the company of ООО "Service Market" and developed a real-production web site: [http://waterdel.ru/].
 
 
-  * I have been working as a freelancer since January of 2022. I have done one project since, ang now I have been working on one e-commerce project that I could not tell about.
-
+* I have been working as a freelancer since January of 2022. I have done one project since, ang now I have been working on one e-commerce project that I could not tell about.
 
 ====
 
 
 ====
-
 
 ### Portfolio
 
@@ -149,7 +145,6 @@ function filterRangeInPlace(arr, a, b) {
 ![project-3](/img/project-3.jpg "project-3")
 ![project-4](/img/project-4.jpg "project-4")
 ![project-5](/img/project-5.jpg "project-5")
-
 
 =====
 
