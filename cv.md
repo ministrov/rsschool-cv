@@ -21,8 +21,7 @@
 
 ====
 
-
-### About me
+### About me brifly
 
 ====
 
@@ -30,7 +29,7 @@ I am eager to become a front-end developer someday, that is why I work hard ever
 
 ====
 
-#### Strong points:
+#### Strong points of me:
 
 * I love to do my job in a hight level of quality
 * Care about deadlines
@@ -154,7 +153,7 @@ function filterRangeInPlace(arr, a, b) {
 
 * English course for Advanced learners Graduated in January 2021
 
-    +Wall Street English ( level of mastering C1)
+  +Wall Street English ( level of mastering C1)
 
 ====
 
