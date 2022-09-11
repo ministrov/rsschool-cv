@@ -124,15 +124,15 @@ A small E-commerce company:
 
 ### Portfolio
 
-![project-1](rsschool-cv/img/project-1.jpg "project-1")
+![project-1](/img/project-1.jpg "project-1")
 
-![project-2](rsschool-cv/img/project-2.jpg "project-2")
+![project-2](/img/project-2.jpg "project-2")
 
-![project-3](rsschool-cv/img/project-3.jpg "project-3")
+![project-3](/img/project-3.jpg "project-3")
 
-![project-4](rsschool-cv/img/project-4.jpg "project-4")
+![project-4](/img/project-4.jpg "project-4")
 
-![project-5](rsschool-cv/img/project-5.jpg "project-5")
+![project-5](/img/project-5.jpg "project-5")
 
 ---
 
