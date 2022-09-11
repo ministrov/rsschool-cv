@@ -74,3 +74,27 @@ function filterRangeInPlace(arr, a, b) {
 }
 
 ```
+
+## Education
+
+====
+
+* Moscow College of Management and New Tecnologies
+  + Graduated in 2002
+
+* HTML Academy in July 2020
+  + HTML & CSS Professional Coding
+  [https://github.com/ministrov/1370879-nerds-28]
+
+* HTML Academy in September 2020
+  + HTML & CSS Adaptive Website coding and Automation
+  [https://github.com/ministrov/1370879-pink-20]
+
+
+* HTML Academy in march 2021
+  + JavaScript Professional Development of Web Interfaces
+  [https://github.com/ministrov/1370879-kekstagram-22]
+
+* Udemy
+  + A modern JavaScript + Vue from scratch on real projects
+  [https://github.com/ministrov/ip-address-tracker]
