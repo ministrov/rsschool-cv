@@ -49,7 +49,6 @@ I am eager to become a front-end developer someday, that is why I work hard ever
 * Babel
 * Vue.js (Basics)
 * React.js (Basics)
-* Vue.js
 * Agile Project Management
 
 ---
