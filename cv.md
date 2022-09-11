@@ -42,6 +42,9 @@ I am eager to become a front-end developer someday, that is why I work hard ever
 
 * HTML
 * CSS
+* Grid layout
+* Flexbox
+* SVG
 * SASS/SCSS, BEM
 * JavaScript (Fundamentals, ES6+, DOM, JSON, Asynchronous JavaScript)
 * Gulp, Webpack, Parcel
@@ -50,4 +53,24 @@ I am eager to become a front-end developer someday, that is why I work hard ever
 * React.js (Basics)
 * Vue.js
 * Agile Project Management
-*
+
+====
+
+## Code Examples
+
+====
+
+Filtering in filterRangeInPlace
+
+```
+let arr = [5, 3, 8, 1];
+
+function filterRangeInPlace(arr, a, b) {
+  for (i = 0; i < arr.length; i++) {
+    if (arr[i] < a || arr[i] > b) {
+        arr.splice(i, 1);
+    }
+  }
+}
+
+```
